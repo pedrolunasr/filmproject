@@ -1,0 +1,7 @@
+Codigo: 2
+Titulo: pedro
+Genero: acao
+Diretor: eu
+Ano de lancamento: 2346
+Duracao: 90.00
+___________________________
